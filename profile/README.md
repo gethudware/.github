@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="logo.png" alt="GetHudware Logo" style="max-width: 200px;">
+  <img src="logo.png" height="128" width="128" style="border-radius:25%">
 </p>
 
 <h1 align="center">h u d w a r e</h1>
