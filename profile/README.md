@@ -1,7 +1,7 @@
 <!-- Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="logo.png" height="128" width="128" style="border-radius:25%">
-</p>
+</p> -->
 
 <h1 align="center">h u d w a r e</h1>
 
