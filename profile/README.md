@@ -32,5 +32,5 @@ Hudware is dedicated to creating comprehensive guides, utilities, and applicatio
 ---
 
 <p align="center">
-  For more information and updates, visit us at <a href="https://github.com/gethudware">Hudware on GitHub</a>.
+  For more information and updates, visit us at <a href="https://hudware.t.me/">Hudware on Telegram</a>.
 </p>
